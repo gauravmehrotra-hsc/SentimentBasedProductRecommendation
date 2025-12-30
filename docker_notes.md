@@ -38,7 +38,7 @@ To run the app locally using Docker:
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/..
+git clone https://github.com/gauravmehrotra-hsc/SentimentBasedProductRecommendation/
 cd SentimentBasedProductRecommendation
 
 # Step 2: Build the image
