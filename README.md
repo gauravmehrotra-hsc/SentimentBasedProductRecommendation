@@ -63,7 +63,7 @@ The project involves:
 
 1. Clone the repository:
     ```bash
-    git clone 
+    git clone https://github.com/gauravmehrotra-hsc/SentimentBasedProductRecommendation/
     cd Sentiment-Based-Product-Recommendation-Analysis
     ```
 
